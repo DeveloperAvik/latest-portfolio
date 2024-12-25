@@ -38,12 +38,6 @@ function Navbar() {
                             <a href="#" className="hover:text-primary">Projects</a>
                         </li>
                         <li>
-                            <a href="#" className="hover:text-primary">Experience</a>
-                        </li>
-                        <li>
-                            <a href="#" className="hover:text-primary">Education</a>
-                        </li>
-                        <li>
                             <a href="#" className="hover:text-primary">Blogs</a>
                         </li>
                         <li>

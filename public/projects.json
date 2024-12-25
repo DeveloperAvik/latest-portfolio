@@ -1,0 +1,316 @@
+[
+    {
+        "name": "Project 1",
+        "description": "A web application for managing tasks and to-do lists.",
+        "languages_and_tools": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "React",
+            "Node.js"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project1",
+        "live_link": "https://project1-live-link.com"
+    },
+    {
+        "name": "Project 2",
+        "description": "A social media app to connect with friends and share posts.",
+        "languages_and_tools": [
+            "JavaScript",
+            "React",
+            "MongoDB",
+            "Express",
+            "Node.js"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project2",
+        "live_link": "https://project2-live-link.com"
+    },
+    {
+        "name": "Project 3",
+        "description": "A portfolio website to showcase personal projects and skills.",
+        "languages_and_tools": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project3",
+        "live_link": "https://project3-live-link.com"
+    },
+    {
+        "name": "Project 4",
+        "description": "A weather forecasting web app that provides real-time weather updates.",
+        "languages_and_tools": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "API"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project4",
+        "live_link": "https://project4-live-link.com"
+    },
+    {
+        "name": "Project 5",
+        "description": "A real-time chat application with user authentication.",
+        "languages_and_tools": [
+            "JavaScript",
+            "Socket.io",
+            "Node.js",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project5",
+        "live_link": "https://project5-live-link.com"
+    },
+    {
+        "name": "Project 6",
+        "description": "An e-commerce website for buying and selling products.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Stripe API"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project6",
+        "live_link": "https://project6-live-link.com"
+    },
+    {
+        "name": "Project 7",
+        "description": "A blogging platform where users can write and publish articles.",
+        "languages_and_tools": [
+            "React",
+            "Express",
+            "MongoDB",
+            "Node.js"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project7",
+        "live_link": "https://project7-live-link.com"
+    },
+    {
+        "name": "Project 8",
+        "description": "A personal finance tracker for managing expenses and budgeting.",
+        "languages_and_tools": [
+            "JavaScript",
+            "Node.js",
+            "MongoDB",
+            "Express"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project8",
+        "live_link": "https://project8-live-link.com"
+    },
+    {
+        "name": "Project 9",
+        "description": "An online code editor with support for multiple languages.",
+        "languages_and_tools": [
+            "React",
+            "Monaco Editor",
+            "Node.js"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project9",
+        "live_link": "https://project9-live-link.com"
+    },
+    {
+        "name": "Project 10",
+        "description": "A job board platform for employers and job seekers.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project10",
+        "live_link": "https://project10-live-link.com"
+    },
+    {
+        "name": "Project 11",
+        "description": "A music player app that streams songs from a custom library.",
+        "languages_and_tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Node.js"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project11",
+        "live_link": "https://project11-live-link.com"
+    },
+    {
+        "name": "Project 12",
+        "description": "A movie database app that fetches data from an API.",
+        "languages_and_tools": [
+            "JavaScript",
+            "React",
+            "API"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project12",
+        "live_link": "https://project12-live-link.com"
+    },
+    {
+        "name": "Project 13",
+        "description": "An interactive quiz app with multiple choice questions.",
+        "languages_and_tools": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project13",
+        "live_link": "https://project13-live-link.com"
+    },
+    {
+        "name": "Project 14",
+        "description": "A real-time multiplayer game built with WebSockets.",
+        "languages_and_tools": [
+            "JavaScript",
+            "Node.js",
+            "WebSocket"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project14",
+        "live_link": "https://project14-live-link.com"
+    },
+    {
+        "name": "Project 15",
+        "description": "A note-taking app with the ability to store, edit, and delete notes.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project15",
+        "live_link": "https://project15-live-link.com"
+    },
+    {
+        "name": "Project 16",
+        "description": "A recipe sharing app for users to post and browse recipes.",
+        "languages_and_tools": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project16",
+        "live_link": "https://project16-live-link.com"
+    },
+    {
+        "name": "Project 17",
+        "description": "An online store for selling digital art and NFTs.",
+        "languages_and_tools": [
+            "React",
+            "Solidity",
+            "Node.js",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project17",
+        "live_link": "https://project17-live-link.com"
+    },
+    {
+        "name": "Project 18",
+        "description": "A video streaming platform with user-uploaded content.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "AWS"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project18",
+        "live_link": "https://project18-live-link.com"
+    },
+    {
+        "name": "Project 19",
+        "description": "A task manager with drag-and-drop functionality for organizing tasks.",
+        "languages_and_tools": [
+            "React",
+            "Redux",
+            "Node.js"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project19",
+        "live_link": "https://project19-live-link.com"
+    },
+    {
+        "name": "Project 20",
+        "description": "A mobile-first responsive website for a fictional restaurant.",
+        "languages_and_tools": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project20",
+        "live_link": "https://project20-live-link.com"
+    },
+    {
+        "name": "Project 21",
+        "description": "A travel blog with images and information about popular destinations.",
+        "languages_and_tools": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project21",
+        "live_link": "https://project21-live-link.com"
+    },
+    {
+        "name": "Project 22",
+        "description": "A fitness tracker with workout and progress logging.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project22",
+        "live_link": "https://project22-live-link.com"
+    },
+    {
+        "name": "Project 23",
+        "description": "A weather app that provides real-time weather data using an external API.",
+        "languages_and_tools": [
+            "React",
+            "JavaScript",
+            "API"
+        ],
+        "category": "Frontend",
+        "source_code": "https://github.com/username/project23",
+        "live_link": "https://project23-live-link.com"
+    },
+    {
+        "name": "Project 24",
+        "description": "A real-time collaborative document editor.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "Socket.io"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project24",
+        "live_link": "https://project24-live-link.com"
+    },
+    {
+        "name": "Project 25",
+        "description": "A book catalog app for searching and tracking books.",
+        "languages_and_tools": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "category": "Full Stack",
+        "source_code": "https://github.com/username/project25",
+        "live_link": "https://project25-live-link.com"
+    }
+]
